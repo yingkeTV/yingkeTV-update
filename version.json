@@ -1,13 +1,13 @@
 {
-  "version": "1.0.9",
-  "tag": "v1.0.9",
-  "notes": "影壳 TV 1.0.9：详情页选集头逗号修复；猫源 Node 按 ABI 选链接器（32 位走 /system/bin/linker）；首页时钟与天气放大。",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.9",
+  "version": "1.0.10",
+  "tag": "v1.0.10",
+  "notes": "影壳 TV 1.0.10：导入弹窗改用屏上键盘（点输入链接框不再闪退）；多端同步设备名输完按右键可到保存；首页天气图标再放大；隐私频道密码框遥控器可换行输入。",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.10",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.9.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.9/app-armeabi-v7a-release-1.0.9.apk",
-      "size": 95720679
+      "name": "app-armeabi-v7a-release-1.0.10.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.10/app-armeabi-v7a-release-1.0.10.apk",
+      "size": 95725003
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "version": "1.0.11",
-  "tag": "v1.0.11",
-  "notes": "影壳 TV 1.0.11：搜索框改用电视自带键盘（原生输入，可拼音输中文，不再闪退）；播放历史可删除单条记录。",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.11",
+  "version": "1.0.12",
+  "tag": "v1.0.12",
+  "notes": "影壳 TV 1.0.12：全软件改回引擎输入法（电视自带键盘）；局域网同步收敛不再卡；订阅列表遥控器能删；海报墙标题白色；演员作品纵向网格；网格行距收紧。",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.12",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.11.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.11/app-armeabi-v7a-release-1.0.11.apk",
-      "size": 95746275
+      "name": "app-armeabi-v7a-release-1.0.12.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.12/app-armeabi-v7a-release-1.0.12.apk",
+      "size": 95728231
     }
   ]
 }

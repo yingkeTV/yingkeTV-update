@@ -1,13 +1,14 @@
 {
-  "version": "1.0.14",
-  "tag": "v1.0.14",
-  "notes": "影壳 TV 1.0.14：PC 修法——分类/搜索 25 条切页、海报按显示尺寸解码、TMDB 懒加载；IJK 回归（EXO→IJK→MPV 兜底）；搜索/判图/详情页收敛；首页串行拉取；播放设置屏显组；遥控器按钮选中态加深；fijkplayer 迁到 v2 embedding。",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.14",
+  "version": "1.0.15",
+  "tag": "v1.0.15",
+  "notes": "影壳 TV 1.0.15：继续观看删除、背景图兜底；播放器 10 秒看门狗 + IJK 回归；图片串行拉取、片库删站点；播放设置 12 个 key、链路诊断/硬解能力/LUT 调色；播放设置分组折叠 + LUT 页面内展开。",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.15",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.14.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.14/app-armeabi-v7a-release-1.0.14.apk",
-      "size": 98474219
+      "name": "app-armeabi-v7a-release-1.0.15.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.15/app-armeabi-v7a-release-1.0.15.apk",
+      "size": 98489167,
+      "sha256": "8aaa2b08afbebe00ee57ca7bd31f6dc70a789edb171b4a191a84133701d3457b"
     }
   ]
 }

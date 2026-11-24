@@ -1,14 +1,14 @@
 {
-  "version": "1.0.15",
-  "tag": "v1.0.15",
-  "notes": "影壳 TV 1.0.15：继续观看删除、背景图兜底；播放器 10 秒看门狗 + IJK 回归；图片串行拉取、片库删站点；播放设置 12 个 key、链路诊断/硬解能力/LUT 调色；播放设置分组折叠 + LUT 页面内展开。",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.15",
+  "version": "1.0.16",
+  "tag": "v1.0.16",
+  "notes": "影壳 TV 1.0.16：搜索拼音首字母联想（本地）+ 搜索页字体放大、沉浸搜索页远程联想（腾讯镜像为主、爱奇艺为辅）+ 热词（360kan 三组）、片库窄屏缩小 + 站点管理批量删除、选站后点电影/剧集提示没有分类的修法（分类缓存）、轮播图手机+电视多屏适配",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.16",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.15.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.15/app-armeabi-v7a-release-1.0.15.apk",
-      "size": 98489167,
-      "sha256": "8aaa2b08afbebe00ee57ca7bd31f6dc70a789edb171b4a191a84133701d3457b"
+      "name": "app-armeabi-v7a-release-1.0.16.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.16/app-armeabi-v7a-release-1.0.16.apk",
+      "size": 98919831,
+      "sha256": "e17fe51bb33aa93772d96fee22a32151c4e7569bded81d58e2a8ef902cdc31d5"
     }
   ]
 }

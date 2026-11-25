@@ -1,14 +1,14 @@
 {
-  "version": "1.0.19",
-  "tag": "v1.0.19",
-  "notes": "影壳 TV 1.0.19：EXO 关原生 LUT 回 ColorFiltered；详情页空状态与原因提示；首页继续观看提前、推荐 20 秒超时、加载提示、轮播背景留上一张",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.19",
+  "version": "1.0.20",
+  "tag": "v1.0.20",
+  "notes": "影壳 TV 1.0.20：详情页取数失败清 key 可重试；详情页四路 90 秒超时兜底；豆瓣原名再匹配 TMDB；热门失败空提示写原因",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.20",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.19.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.19/app-armeabi-v7a-release-1.0.19.apk",
-      "size": 99036352,
-      "sha256": "e51d57fe643717040ef34f17cf7fd2c0e54873d7109b738303edfb52c6f10cc1"
+      "name": "app-armeabi-v7a-release-1.0.20.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.20/app-armeabi-v7a-release-1.0.20.apk",
+      "size": 99037016,
+      "sha256": "e42de6ab27498a29bbb8e88cccf4be80d8d312127b80deb0ec82b04fed18d326"
     }
   ]
 }

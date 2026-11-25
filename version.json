@@ -1,14 +1,14 @@
 {
-  "version": "1.0.20",
-  "tag": "v1.0.20",
-  "notes": "影壳 TV 1.0.20：详情页取数失败清 key 可重试；详情页四路 90 秒超时兜底；豆瓣原名再匹配 TMDB；热门失败空提示写原因",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.20",
+  "version": "1.0.21",
+  "tag": "v1.0.21",
+  "notes": "影壳 TV 1.0.21：PC 播放修复（EXO 直连/IJK SurfaceView/进度定时保存/遥控快进/轮播提速）；补 _startSaveTimer 丢的右括号",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.21",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.20.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.20/app-armeabi-v7a-release-1.0.20.apk",
-      "size": 99037016,
-      "sha256": "e42de6ab27498a29bbb8e88cccf4be80d8d312127b80deb0ec82b04fed18d326"
+      "name": "app-armeabi-v7a-release-1.0.21.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.21/app-armeabi-v7a-release-1.0.21.apk",
+      "size": 99038096,
+      "sha256": "cf9e74f70cfb295d17b3f424b607f0d76ea122ffb95097ade8bbcd7bb97fbcdb"
     }
   ]
 }

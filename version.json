@@ -1,14 +1,14 @@
 {
-  "version": "1.0.18",
-  "tag": "v1.0.18",
-  "notes": "影壳 TV 1.0.18：EXO/IJK/MPV 播放流畅优化（解码兜底、缓冲、原生 LUT、relay 签名过期重解析）+ 搜索拼音栏与汉字直输 + 详情背景轮换 + 图标白边修复",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.18",
+  "version": "1.0.19",
+  "tag": "v1.0.19",
+  "notes": "影壳 TV 1.0.19：EXO 关原生 LUT 回 ColorFiltered；详情页空状态与原因提示；首页继续观看提前、推荐 20 秒超时、加载提示、轮播背景留上一张",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.19",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.18.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.18/app-armeabi-v7a-release-1.0.18.apk",
-      "size": 99028140,
-      "sha256": "3e98f1e158676572382725c70c4f02e41da76006d707a01c5a4c7b90d2eb46e3"
+      "name": "app-armeabi-v7a-release-1.0.19.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.19/app-armeabi-v7a-release-1.0.19.apk",
+      "size": 99036352,
+      "sha256": "e51d57fe643717040ef34f17cf7fd2c0e54873d7109b738303edfb52c6f10cc1"
     }
   ]
 }

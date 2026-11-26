@@ -1,14 +1,14 @@
 {
-  "version": "1.0.25",
-  "tag": "v1.0.25",
-  "notes": "隐私密码弹窗可滚动；直播页源 chips 横排；直播播放器去掉锁屏/横屏按钮；搜索按源站分卡；详情页加换站按钮；直播遥控按 webhomeTV（OK 唤起台单、菜单唤起控制栏、上/下换台、左/右换线路、数字键跳台）+ 锁改到选台时验；详情加载慢 A+B（20 秒超时给重试/换站 + 15 分钟详情缓存）；版本行改回 -beta；详情页线路移到播放行下方；播放器控制栏加换线路按钮；开屏图（PC 版官方 logo，启动显示到进首页）。",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.25",
+  "version": "1.0.26",
+  "tag": "v1.0.26",
+  "notes": "直播播放器按 webhomeTV 对齐：进直播 tab 直进播放器（上次记忆 + 回落）、触摸左右分区 + 双击、控制栏补齐（线路/反转/跨类/换源/原始/锁/全屏）、中央上一台/播放/下一台三键 + 信息条 + 进度条、顶栏时钟、台单左侧悬浮 + 节目单回看、解析器 meta 频道过滤；隐私锁会话级（进播放器验证、退出重锁、私密台取消跳下一台）；控制锁仅手机端；播放器里无顶栏（手机、电视）；直播页黑屏修法（标题行定高 + _load 就绪日志）；搜索移植（APP 5 项 + 超时 30 秒 + 超时不记熔断 + 新轮不清空旧结果 + 导入重置熔断器 + 暂停/恢复）。",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.26",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.25.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.25/app-armeabi-v7a-release-1.0.25.apk",
-      "size": 99205716,
-      "sha256": "cc3fb211baf8e924012dff3ba56a337febba62823a74489da2f95dc01f8c1d6a"
+      "name": "app-armeabi-v7a-release-1.0.26.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.26/app-armeabi-v7a-release-1.0.26.apk",
+      "size": 99249216,
+      "sha256": "b0f92f9877939102c7b1de5d452f61feb5e0fb417f5813c16f51c97a498de554"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "version": "1.0.24",
-  "tag": "v1.0.24",
-  "notes": "影壳 TV 1.0.24：修 IJK 画面层空错误（左右键快进恢复）+ 顶栏直播入口",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.24",
+  "version": "1.0.25",
+  "tag": "v1.0.25",
+  "notes": "隐私密码弹窗可滚动；直播页源 chips 横排；直播播放器去掉锁屏/横屏按钮；搜索按源站分卡；详情页加换站按钮；直播遥控按 webhomeTV（OK 唤起台单、菜单唤起控制栏、上/下换台、左/右换线路、数字键跳台）+ 锁改到选台时验；详情加载慢 A+B（20 秒超时给重试/换站 + 15 分钟详情缓存）；版本行改回 -beta；详情页线路移到播放行下方；播放器控制栏加换线路按钮；开屏图（PC 版官方 logo，启动显示到进首页）。",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.25",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.24.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.24/app-armeabi-v7a-release-1.0.24.apk",
-      "size": 99031640,
-      "sha256": "4a3ea75f94d1c28f4535fac0c416f4b23885b0943465161710cc7a4e6bda27b5"
+      "name": "app-armeabi-v7a-release-1.0.25.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.25/app-armeabi-v7a-release-1.0.25.apk",
+      "size": 99205716,
+      "sha256": "cc3fb211baf8e924012dff3ba56a337febba62823a74489da2f95dc01f8c1d6a"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "version": "1.0.27",
-  "tag": "v1.0.27",
-  "notes": "红果转圈 B：取流 35 秒总期限，超时报“取流超时”，40 秒看门狗必有出口；详情 #9：换订阅后按片名聚合搜同名可播条目，找不到提示“当前订阅里没有此片”；直播黑屏 #10：15 秒首帧看门狗，拉流失败报错并自动换线；搜索按 APP 1.2.18 对齐（超时/并发/熔断器），熔断器不落盘；直播假分组：拦住“列表更新时间”元数据行；直播 Null check 崩溃：置 _error 前先把焦点抢回根节点。",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.27",
+  "version": "1.0.28",
+  "tag": "v1.0.28",
+  "notes": "PC IJK 设计落地：诊断采样（每 5 秒读原生统计记日志）、压力自动升档（MILD 起步、只升 AGGRESSIVE）、硬解失败自动切软解（≤1080p / ≤30.5fps / ≤8Mbps）+ 首帧看门狗（15 秒无首帧且音频在播即切软解，软解也无首帧走下一引擎 MPV）、快进估计位置（位置不可用时用最后已知位置 + 已播时间推算，仅显示与快进目标，绝不写进续播存档）、清单门分流（无 ENDLIST 的点播直接走 EXO）、插件统计通道；直播页顶部加“订阅”行（多行 Wrap，两行排布），遥控器可切订阅；源 chips 改为可聚焦卡片，遥控器可切源；修首编 4 个编译错误。",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.28",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.27.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.27/app-armeabi-v7a-release-1.0.27.apk",
-      "size": 99249844,
-      "sha256": "ddc667bf757e3badead71d8a648ef4dacb7d74a993c6eff3202444bc86ef84b1"
+      "name": "app-armeabi-v7a-release-1.0.28.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.28/app-armeabi-v7a-release-1.0.28.apk",
+      "size": 99279140,
+      "sha256": "e605c0f39b1fa7ab6b568ac744735496a75a59dc4f0377904e9b9a80acad21bc"
     }
   ]
 }

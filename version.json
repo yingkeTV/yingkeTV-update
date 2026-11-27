@@ -1,14 +1,14 @@
 {
-  "version": "1.0.29",
-  "tag": "v1.0.29",
-  "notes": "修快进：光影《俺娘田小草》IJK 右键快进每次 +10 秒、位置不再掉回 10 秒（开播门与切核补跑门在 URL 后缀判不出 HLS 时嗅内容，#EXTM3U 即 HLS；mp4 嗅不到不误伤；嗅失败 fail-open）；直播页两行上下调换（订阅行上、源行下）；详情页换站只换集数/线路不重载整页；点播播放器选集按钮改成汉字“选集”；直播换台不再出现中央三个大圆钮，换台只亮信息条。",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.29",
+  "version": "1.0.30",
+  "tag": "v1.0.30",
+  "notes": "直播换台不再出现中央三个大圆钮；片库当前站点更明显（实心蓝底白字「当前」胶囊+加粗蓝边框）；直播首帧看门狗误杀修（有缓冲不杀）；详情页换站带进度续播；首页「继续观看」长按直接删；详情页线路行一条也显示；EXO 走中继+去广告默认开；详情页去悬浮（内容落实底）。",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.30",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.29.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.29/app-armeabi-v7a-release-1.0.29.apk",
-      "size": 99274388,
-      "sha256": "f4c0c292f05bf3cc1ebf5e17b740cc2549cbbd03576cd2815743129841f92c31"
+      "name": "app-armeabi-v7a-release-1.0.30.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.30/app-armeabi-v7a-release-1.0.30.apk",
+      "size": 99275400,
+      "sha256": "3c5d49543ebca4a4c81776978d7df1adcea102c86da8750caab2a4cf09989234"
     }
   ]
 }

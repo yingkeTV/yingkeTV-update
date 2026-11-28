@@ -1,14 +1,14 @@
 {
-  "version": "1.0.31",
-  "tag": "v1.0.31",
-  "notes": "详情页恢复悬浮（内容浮在大图上）；换订阅记住站点（切回来直接回到之前选的站）；播放取流报错更清楚（不是播放列表时直接报「该源取流失败」）。",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.31",
+  "version": "1.0.32",
+  "tag": "v1.0.32",
+  "notes": "详情页悬浮结构修复（大图钉死底层，内容浮在其上）；片库搜索框方向键拦截（焦点进输入框后按上下键能出来）。",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.32",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.31.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.31/app-armeabi-v7a-release-1.0.31.apk",
-      "size": 99277252,
-      "sha256": "025136f0efa9800180e62fb80010a12b097e6a94ee768da25fdb57d7b32411c7"
+      "name": "app-armeabi-v7a-release-1.0.32.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.32/app-armeabi-v7a-release-1.0.32.apk",
+      "size": 99278620,
+      "sha256": "e78e61bf55f846295077c5ef2e4f8336d9ad506bc9d5106ba26d7dc229fbc796"
     }
   ]
 }

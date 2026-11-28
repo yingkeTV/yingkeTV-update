@@ -1,14 +1,14 @@
 {
-  "version": "1.0.33",
-  "tag": "v1.0.33",
-  "notes": "轮播评分 TMDB 在前豆瓣在后；演员表点播放修好（空壳兜底、搜错字、null 地址）；宝莲进屏蔽表；人物页 18+ 过滤；演员表自动搜下一站。",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.33",
+  "version": "1.0.34",
+  "tag": "v1.0.34",
+  "notes": "详情页大图去黑、白字描边；屏蔽表再补 36 条；搜索内层超时 +30→+60 秒；快搜回空补全搜。",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.34",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.33.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.33/app-armeabi-v7a-release-1.0.33.apk",
-      "size": 99285164,
-      "sha256": "52aa0135892dfc5d38e89a860f5207c8fd3d10dc4daed7762820c91e1730728d"
+      "name": "app-armeabi-v7a-release-1.0.34.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.34/app-armeabi-v7a-release-1.0.34.apk",
+      "size": 99286708,
+      "sha256": "172b098998af5027791be6a411773960e6474f8eb2f8464e27a602d06fbf93a7"
     }
   ]
 }

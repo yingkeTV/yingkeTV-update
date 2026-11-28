@@ -1,14 +1,14 @@
 {
-  "version": "1.0.34",
-  "tag": "v1.0.34",
-  "notes": "详情页大图去黑、白字描边；屏蔽表再补 36 条；搜索内层超时 +30→+60 秒；快搜回空补全搜。",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.34",
+  "version": "1.0.35",
+  "tag": "v1.0.35",
+  "notes": "搜索改手动提交（输字母只出联想，点搜索按钮/回车/联想词才搜）；屏蔽表第三批 2 条繁体；删裸词“僵尸”（僵尸先生/僵尸叔叔不再被 18+ 误拦）；蜘蛛调用失败逐出实例（饭太硬第一次搜行、第二次搜不行修法）。",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.35",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.34.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.34/app-armeabi-v7a-release-1.0.34.apk",
-      "size": 99286708,
-      "sha256": "172b098998af5027791be6a411773960e6474f8eb2f8464e27a602d06fbf93a7"
+      "name": "app-armeabi-v7a-release-1.0.35.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.35/app-armeabi-v7a-release-1.0.35.apk",
+      "size": 99286732,
+      "sha256": "d0f0d65de23c9f3882b9d486d19b5dfb970d45ff62a92d8e36bdc09790305049"
     }
   ]
 }

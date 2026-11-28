@@ -1,14 +1,14 @@
 {
-  "version": "1.0.30",
-  "tag": "v1.0.30",
-  "notes": "直播换台不再出现中央三个大圆钮；片库当前站点更明显（实心蓝底白字「当前」胶囊+加粗蓝边框）；直播首帧看门狗误杀修（有缓冲不杀）；详情页换站带进度续播；首页「继续观看」长按直接删；详情页线路行一条也显示；EXO 走中继+去广告默认开；详情页去悬浮（内容落实底）。",
-  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.30",
+  "version": "1.0.31",
+  "tag": "v1.0.31",
+  "notes": "详情页恢复悬浮（内容浮在大图上）；换订阅记住站点（切回来直接回到之前选的站）；播放取流报错更清楚（不是播放列表时直接报「该源取流失败」）。",
+  "html_url": "https://github.com/yingkeTV/yingkeTV-update/releases/tag/v1.0.31",
   "assets": [
     {
-      "name": "app-armeabi-v7a-release-1.0.30.apk",
-      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.30/app-armeabi-v7a-release-1.0.30.apk",
-      "size": 99275400,
-      "sha256": "3c5d49543ebca4a4c81776978d7df1adcea102c86da8750caab2a4cf09989234"
+      "name": "app-armeabi-v7a-release-1.0.31.apk",
+      "browser_download_url": "https://github.com/yingkeTV/yingkeTV-update/releases/download/v1.0.31/app-armeabi-v7a-release-1.0.31.apk",
+      "size": 99277252,
+      "sha256": "025136f0efa9800180e62fb80010a12b097e6a94ee768da25fdb57d7b32411c7"
     }
   ]
 }
